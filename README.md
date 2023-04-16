@@ -4,9 +4,11 @@ This repository contains a Flutter project that uses an API to fetch data and di
 
 ## Screenshots
 
-<img src="assets/no_item.jpg" alt="No post"  width="220" height="450"> &nbsp; &nbsp; <img src="assets/post_error.jpg" alt="Post error" width="220" height="450"> &nbsp; &nbsp; <img src="assets/post_created.jpg" alt="Post created"  width="220" height="450"> &nbsp; &nbsp; <img src="assets/popup.jpg" alt="Popup" width="220" height="450">
+<img src="assets/no_item.jpg" alt="No post"  width="220" height="450"> &nbsp; &nbsp; <img src="assets/post_error.jpg" alt="Post error" width="220" height="450"> &nbsp; &nbsp; <img src="assets/post_created.jpg" alt="Post created"  width="220" height="450"> 
 
-<img src="assets/edit_post.jpg" alt="Edit post"  width="220" height="450"> &nbsp; &nbsp; <img src="assets/post_updated.jpg" alt="Post updated"  width="220" height="450"> &nbsp; &nbsp; <img src="assets/dialog.jpg" alt="Delete Dialog" width="220" height="450"> &nbsp; &nbsp; <img src="assets/post_deleted.jpg" alt="Post deleted"  width="220" height="450">
+<img src="assets/popup.jpg" alt="Popup" width="220" height="450">&nbsp; &nbsp; <img src="assets/edit_post.jpg" alt="Edit post"  width="220" height="450"> &nbsp; &nbsp; <img src="assets/post_updated.jpg" alt="Post updated"  width="220" height="450">
+
+<img src="assets/dialog.jpg" alt="Delete Dialog" width="220" height="450"> &nbsp; &nbsp; <img src="assets/post_deleted.jpg" alt="Post deleted"  width="220" height="450">
 
 ## Getting Started
 
