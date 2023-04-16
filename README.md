@@ -1,4 +1,4 @@
-# API Learn
+# Todo App
 
 This repository contains a Flutter project that uses an API to fetch data and display it in the app. The app is built using the Flutter framework and the Dart programming language.
 
